@@ -1,0 +1,17 @@
+.grey{
+    background-color: grey;
+    border-radius: 20px;
+    margin: 50px;
+    width: 50%;
+    padding: 10px;
+}
+
+img{
+    width: 200;
+    height: 175;
+    border-radius: 20px;
+}
+
+body{
+    background-color: lightgrey;
+}
